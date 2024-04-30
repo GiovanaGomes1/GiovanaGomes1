@@ -1,16 +1,13 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 🩷
 
-<!--
-**GiovanaGomes1/GiovanaGomes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Giovana Gomes 
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entar em contato comigo 
+
+@galego.danubia772@gmail.com📪
+
+![image](https://github.com/GiovanaGomes1/GiovanaGomes1/assets/168597163/052bcba4-7abf-4e78-bcd4-b46631aeedbf)
